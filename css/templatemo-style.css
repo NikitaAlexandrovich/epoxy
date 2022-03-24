@@ -394,6 +394,54 @@ http://www.templatemo.com/tm-516-known
     background-image: url(../images/slider-image3.jpg);
   }
 
+  .epoxy-slider .item-first {
+    background-image: url(../images/epoxy_course/image1.jpg);
+	background-position: center;
+  }
+  .epoxy-slider .item-second {
+    background-image: url(../images/epoxy_course/image2.jpg);
+	background-position: center;
+  }
+  .epoxy-slider .item-third {
+    background-image: url(../images/epoxy_course/image3.jpg);
+	background-position: center;
+  }
+  .epoxy-slider .item-forth {
+    background-image: url(../images/epoxy_course/image4.jpg);
+	background-position: center;
+  }
+  .epoxy-slider .item-fifth {
+    background-image: url(../images/epoxy_course/image5.jpg);
+	background-position: center;
+  }
+  .epoxy-slider .item-sixth {
+    background-image: url(../images/epoxy_course/image6.jpg);
+	background-position: center;
+  }
+  .epoxy-slider .item-seventh {
+    background-image: url(../images/epoxy_course/image7.jpg);
+	background-position: center;
+  }
+  .epoxy-slider .item-eight {
+    background-image: url(../images/epoxy_course/image8.jpg);
+	background-position: center;
+  }
+  .epoxy-slider .item-nine {
+    background-image: url(../images/epoxy_course/image9.jpg);
+	background-position: center;
+  }
+  .epoxy-slider .item-ten {
+    background-image: url(../images/epoxy_course/image10.jpg);
+	background-position: center;
+  }
+  .epoxy-slider .item-elewen {
+    background-image: url(../images/epoxy_course/image11.jpg);
+	background-position: center;
+  }
+  .epoxy-slider .item-twelf {
+    background-image: url(../images/epoxy_course/image12.jpg);
+	background-position: center;
+  }
 
 
   /*---------------------------------------
